@@ -1,5 +1,5 @@
 
-a quick app to show stuff. 
+# Aarhus. A quick app to show stuff. 
 
 - angular 1.3 on the front
 
