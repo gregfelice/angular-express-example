@@ -2,11 +2,11 @@
 
 /**
  * @ngdoc directive
- * @name fruffiApp.directive:myDirective
+ * @name aarhusApp.directive:myDirective
  * @description
  * # myDirective
  */
-angular.module('fruffiApp')
+angular.module('aarhusApp')
   .directive('myDirective', function () {
     return {
       template: '<div></div>',

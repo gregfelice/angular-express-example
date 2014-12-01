@@ -2,16 +2,18 @@
 
 /**
  * @ngdoc function
- * @name fruffiApp.controller:MycontrollerCtrl
+ * @name aarhusApp.controller:MycontrollerCtrl
  * @description
  * # MycontrollerCtrl
- * Controller of the fruffiApp
+ * Controller of the aarhusApp
  */
-angular.module('fruffiApp')
+angular.module('aarhusApp')
   .controller('MycontrollerCtrl', function ($scope) {
-    $scope.awesomeThings = [
-      'HTML5 Boilerplate',
-      'AngularJS',
-      'Karma'
+
+    $scope.things = [
+      'Mia',
+      'Bo',
+      'Erica'
     ];
+
   });

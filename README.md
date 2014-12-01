@@ -21,6 +21,7 @@ we will also use for css:
 - bootstrap with sass option.
 
 ## References
+- https://docs.angularjs.org/guide
 - http://www.codecademy.com/courses/javascript-advanced-en-2hJ3J/0/1
 
 

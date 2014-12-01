@@ -2,14 +2,14 @@
 
 /**
  * @ngdoc overview
- * @name fruffiApp
+ * @name aarhusApp
  * @description
- * # fruffiApp
+ * # aarhusApp
  *
  * Main module of the application.
  */
 angular
-  .module('fruffiApp', [
+  .module('aarhusApp', [
     'ngAnimate',
     'ngCookies',
     'ngResource',
@@ -26,6 +26,10 @@ angular
       .when('/about', {
         templateUrl: 'views/about.html',
         controller: 'AboutCtrl'
+      })
+      .when('/test', {
+        templateUrl: 'views/test.html',
+        controller: 'MyControllerCrtl'
       })
       .otherwise({
         redirectTo: '/'

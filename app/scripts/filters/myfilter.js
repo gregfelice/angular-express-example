@@ -2,13 +2,13 @@
 
 /**
  * @ngdoc filter
- * @name fruffiApp.filter:myFilter
+ * @name aarhusApp.filter:myFilter
  * @function
  * @description
  * # myFilter
- * Filter in the fruffiApp.
+ * Filter in the aarhusApp.
  */
-angular.module('fruffiApp')
+angular.module('aarhusApp')
   .filter('myFilter', function () {
     return function (input) {
       return 'myFilter filter: ' + input;
