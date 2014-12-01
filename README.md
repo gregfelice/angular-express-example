@@ -15,7 +15,8 @@ We will also use the following build tools:
 
 We will use the following testing tools:
 - jasmine for bdd
-- karma for testrunning.
+- karma for testrunning
+- protractor for end to end testing
 
 we will also use for css:
 - bootstrap with sass option.
