@@ -14,10 +14,14 @@ We will also use the following build tools:
 - grunt
 
 We will use the following testing tools:
-- mocha for bdd
+- jasmine for bdd
 - karma for testrunning.
 
 we will also use for css:
 - bootstrap with sass option.
+
+## References
+- [Code academy angular examples][http://www.codecademy.com/courses/javascript-advanced-en-2hJ3J/0/1]
+
 
 
